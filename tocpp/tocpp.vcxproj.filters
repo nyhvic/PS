@@ -21,5 +21,8 @@
     <ClCompile Include="1052opt.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1715.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
