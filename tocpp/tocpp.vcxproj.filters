@@ -36,11 +36,5 @@
     <ClCompile Include="1744.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-<<<<<<< HEAD
-    <ClCompile Include="7576.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-=======
->>>>>>> 82cd378486dd34197a0a95aa0f9c58f509f97a48
   </ItemGroup>
 </Project>
