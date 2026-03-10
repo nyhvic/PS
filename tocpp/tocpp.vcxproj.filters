@@ -13,139 +13,145 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\class3">
+      <UniqueIdentifier>{30167157-2d4a-4b8e-812d-99697dadfe37}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1052.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1052opt.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1715.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9663.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9663opt.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1463.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1744.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="7576.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1339.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="16974.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1253.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="7662.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1753.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11286.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="14940.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1620.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1764.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11047.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1003.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11399.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9095.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11659.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="17219.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2579.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11726.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\class3</Filter>
     </ClCompile>
     <ClCompile Include="1012.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\class3</Filter>
     </ClCompile>
     <ClCompile Include="1012dfs.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\class3</Filter>
     </ClCompile>
-    <ClCompile Include="1927.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1052.cpp">
+      <Filter>소스 파일\class3</Filter>
     </ClCompile>
-    <ClCompile Include="2630.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1052opt.cpp">
+      <Filter>소스 파일\class3</Filter>
     </ClCompile>
-    <ClCompile Include="2805.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1253.cpp">
+      <Filter>소스 파일\class3</Filter>
     </ClCompile>
-    <ClCompile Include="11724.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1697.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9375.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="9461.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11727.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1541.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1654.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="18111.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="21736.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="30804.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1339.cpp">
+      <Filter>소스 파일\class3</Filter>
     </ClCompile>
     <ClCompile Include="1389.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="1463.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="1541.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="1620.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="1654.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="1697.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="1715.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="1744.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="1753.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="1764.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="1927.cpp">
+      <Filter>소스 파일\class3</Filter>
     </ClCompile>
     <ClCompile Include="2178.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="2579.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="2630.cpp">
+      <Filter>소스 파일\class3</Filter>
     </ClCompile>
     <ClCompile Include="2667.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="2805.cpp">
+      <Filter>소스 파일\class3</Filter>
     </ClCompile>
     <ClCompile Include="5525.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="7576.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="7662.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="9095.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="9375.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="9461.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="9663.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="9663opt.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="11047.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="11286.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="11399.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="11403.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="11659.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="11724.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="11726.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="11727.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="14940.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="16974.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="17219.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="18111.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="21736.cpp">
+      <Filter>소스 파일\class3</Filter>
+    </ClCompile>
+    <ClCompile Include="30804.cpp">
+      <Filter>소스 파일\class3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
